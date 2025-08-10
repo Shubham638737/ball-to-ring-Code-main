@@ -1,6 +1,10 @@
 Ball-to-Ring
 
 
+![Unity](https://img.shields.io/badge/Engine-Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-WebGL-orange?style=for-the-badge)
 
 
 
