@@ -1,48 +1,55 @@
-🎯 Ball-to-Ring
-Ball-to-Ring is a Unity WebGL casual reflex game where players must match falling colored balls with the correct colored rings. The gameplay is simple to pick up but hard to master — testing your reaction time and hand–eye coordination.
+Ball-to-Ring
 
-🚀 Features
-🎨 Minimal & Clean UI – Focused on gameplay with no clutter.
 
-⚡ Progressive Difficulty – Balls fall faster as you score higher.
 
-🖱 Simple Controls – Rotate the rings with a single click/tap.
 
-📱 WebGL Build – Play instantly in the browser, no installation required.
 
-🎯 Replay Value – Compete for high scores and challenge friends.
+A minimal yet addictive color-matching reflex game built in Unity.
+Rotate the rings, match the colors, and push your reaction speed to the limit!
 
-🎮 How to Play
-Colored balls drop from the top.
+🎮 Features
+Clean & minimal UI for distraction-free gameplay
 
-Rotate the ring so that the falling ball passes through the matching color section.
+Fast-paced color-matching mechanics
 
-Gain points for every correct match.
+Progressive difficulty as your score increases
 
-Miss a match — and it’s game over.
+Smooth animations & responsive controls
 
-🛠 Tech Stack
-Unity Engine – Core game development.
+Works seamlessly on WebGL
 
-C# – Game scripting & mechanics.
+🕹 Controls
+Mouse / Touch → Rotate rings to align with falling ball colors
 
-WebGL – Deployment platform.
+Match the ball color with the correct ring
 
-Netlify – Hosting & distribution.
+A wrong match ends the game instantly
 
-📂 How to Run Locally
+🚀 Getting Started
+1️⃣ Clone the repository
 bash
 Copy
 Edit
-# Clone this repository
-git clone https://github.com/your-username/ball-to-ring.git
+git clone https://github.com/yourusername/ball-to-ring.git
+2️⃣ Open in Unity
+Recommended Unity Version: 2022.3.x LTS (or compatible)
 
-# Open in Unity Editor (version X.XX or newer recommended)
-# Build for WebGL or any platform of your choice
+Open the Assets/Scenes/Main.unity scene
+
+3️⃣ Play the game
+Press ▶ Play in Unity Editor
+
+Or build for WebGL via File > Build Settings
+
 🌐 Live Demo
-🎮 Play Here: Ball-to-Ring on Netlify
+🎯 Play Now: Ball-to-Ring on Netlify
 
-📸 Screenshot
+📸 Screenshots
+Gameplay	Color Match Moment
 
 📜 License
-This project is licensed under the MIT License – free to use, modify, and share with attribution.
+This project is licensed under the MIT License – feel free to use, modify, and distribute.
+
+💡 Credits
+Developed by Raj Agrahari
+Concept & gameplay inspired by classic color-matching arcade games.
